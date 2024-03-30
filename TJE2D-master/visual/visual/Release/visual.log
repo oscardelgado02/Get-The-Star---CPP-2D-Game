@@ -1,0 +1,38 @@
+﻿  game.cpp
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\game.cpp(206,22): warning C4018: '>=': no coinciden signed/unsigned
+  stage.cpp
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\src\stage.cpp(128,22): warning C4018: '>=': no coinciden signed/unsigned
+  Generando código
+  8 of 935 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  visual.vcxproj -> C:\Users\Usuario\OneDrive\Escritorio\UNI\3. Tercer Curs\3. Tercer Trimestre\Jocs Electronics\Practica1\TJE2D-master\visual\Release\Game.exe
